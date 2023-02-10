@@ -4,7 +4,7 @@
 
 This web application is a Realtime Chat application where everyone can input thier UserName and RoomId to join into a chatting room. Only the the people who input the same RoomId will be able to chat with each other. Just simple like using text message to interact with other people.
 
-[Realtime-Chat-App Presentation](https://drive.google.com/drive/folders/1oMVxNz3YAS_SnWVMOTtLM4VdonK8F8V4)
+[Realtime-Chat-App Presentation](https://drive.google.com/file/d/1PVdko3p1qbne178rge2OHU_K43NjGwsc/view?usp=sharing)
 
 [Realtime Chat App](http://realtime-chat-application.s3-website-us-east-1.amazonaws.com)
 
